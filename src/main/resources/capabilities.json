@@ -1,0 +1,7 @@
+{
+  "platformName": "Android",
+  "platformVersion": "7",
+  "deviceName": "Nexus 5X",
+  "app": "*YOUR PATH TO PROJECT*/src/main/resources/selendroid-test-app.apk",
+  "chromedriverExecutable": "*YOUR PATH TO PROJECT*/src/main/resources/chromedriver.exe"
+}
